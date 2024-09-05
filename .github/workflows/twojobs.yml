@@ -1,9 +1,6 @@
 name: two jobs
 
-on:
-  push:
-    branches:
-       - feature_new
+on: push
 
 jobs:
         JobLinux:
